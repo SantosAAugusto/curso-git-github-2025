@@ -1,2 +1,7 @@
 arquivo 01, meu chapa
+<<<<<<< HEAD
 adição de mensagem
+=======
+adição de mensagem na branch Secundaria01
+>>>>>>> Secundaria01
+legal, meu deus
