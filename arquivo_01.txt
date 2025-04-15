@@ -1,3 +1,5 @@
 arquivo 01, meu chapa
+<<<<<<< HEAD
 adição de mensagem
 mensagem da ana
+
